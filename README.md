@@ -1,6 +1,6 @@
 # Blinxter releases
 
-Public download + auto-update channel for [Blinxter](https://github.com/algology/blinxter-app)
+Public download + auto-update channel for [Blinxter](https://github.com/11point2/blinxter-app)
 (source is private). Notarized DMGs are published here as GitHub Releases, and Sparkle's
 `appcast.xml` (served from this repo) drives in-app auto-updates.
 

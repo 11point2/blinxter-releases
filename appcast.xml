@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Blinxter</title>
-    <link>https://raw.githubusercontent.com/algology/blinxter-releases/main/appcast.xml</link>
+    <link>https://raw.githubusercontent.com/11point2/blinxter-releases/main/appcast.xml</link>
     <description>Blinxter updates</description>
     <!-- release.sh appends <item> entries here on each release -->
     <item>
@@ -11,7 +11,7 @@
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/algology/blinxter-releases/releases/download/v0.1.0/Blinxter.dmg" type="application/octet-stream" sparkle:edSignature="RctLBnmH0pS+ny+LHTW3zV0dhneB56YSwLwr9iyVvubC6sWP7/P3A6UtKhhH1ZTQIeoeEN0LymmW9iWOM4feAA==" length="4773093" />
+      <enclosure url="https://github.com/11point2/blinxter-releases/releases/download/v0.1.0/Blinxter.dmg" type="application/octet-stream" sparkle:edSignature="RctLBnmH0pS+ny+LHTW3zV0dhneB56YSwLwr9iyVvubC6sWP7/P3A6UtKhhH1ZTQIeoeEN0LymmW9iWOM4feAA==" length="4773093" />
     </item>
   </channel>
 </rss>

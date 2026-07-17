@@ -6,6 +6,14 @@
     <description>Blinxter updates</description>
     <!-- release.sh appends <item> entries here on each release -->
     <item>
+      <title>Version 0.1.20</title>
+      <pubDate>Fri, 17 Jul 2026 03:24:52 +0000</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.1.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/11point2/blinxter-releases/releases/download/v0.1.20/Blinxter.dmg" type="application/octet-stream" sparkle:edSignature="qfipX6z4tsc9uH+Z7zopy3CkrJFepzbkWDin7wTR4qPENDL88NY5XtEoJgyCz8Loa03ern+9bFUQM3FW2nxpAA==" length="5148178" />
+    </item>
+    <item>
       <title>Version 0.1.19</title>
       <pubDate>Wed, 15 Jul 2026 22:56:44 +0000</pubDate>
       <sparkle:version>20</sparkle:version>
